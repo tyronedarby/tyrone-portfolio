@@ -27,6 +27,17 @@ A lightweight desktop task manager built with Java, JavaFX, and CSS. The project
 
 [View the ToDoList source code](https://github.com/tyronedarby/ToDoList).
 
+### Selected GitHub projects
+
+| Project | Focus | Technologies |
+| --- | --- | --- |
+| [Personal Finance & Budget Management](https://github.com/tyronedarby/Personal-Finance-and-Budget-Management-System) | Transaction management, category budgets, overspending queries, and relational modeling | Python, Flask, MySQL |
+| [Advanced JPA Relationship Mapping](https://github.com/tyronedarby/09-spring-boot-jpa-advanced-mappings) | Learning project exploring entity relationships, transactional persistence, and JPQL fetch joins | Java, Spring Boot, Hibernate, JPA |
+| [Budget Tracker Mobile](https://github.com/tyronedarby/budget-tracker-mobile) | Local transaction storage, spending charts, budget thresholds, and PDF reports | TypeScript, React Native, Expo, AsyncStorage |
+| [AnimeAlert](https://github.com/tyronedarby/AnimeAlert) | Anime search, type and genre filters, pagination, and a persistent local watchlist | TypeScript, React Native, Jikan API, AsyncStorage |
+
+Each GitHub project includes a repository link and expandable implementation details. The selection emphasizes application depth, database work, and skills that complement the portfolio's Java focus. Descriptions were checked against public source files; see [PROJECTS.md](PROJECTS.md) for the review notes and evidence.
+
 The project visuals on the portfolio are labeled illustrations. The applications themselves are separate projects and are not included in this repository.
 
 ## Technology
@@ -54,6 +65,7 @@ tyrone-portfolio/
 |   `-- script.js
 |-- serve.mjs
 |-- DESIGN.md
+|-- PROJECTS.md
 |-- README.md
 `-- .gitignore
 ```
